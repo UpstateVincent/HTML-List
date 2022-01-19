@@ -1,0 +1,49 @@
+<!DOCTYPE>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name"description" content="This website is awesome!">
+		<title>Vincent's Website</title>	
+	</head>
+	<body>
+		<ol type="A">
+			<li>Apple
+				<ol>
+					<li>Granny Smith</li>
+					<li>Golden Delicious</li>
+					<li>Empire</li>
+				</ol>
+			</li>
+			<li>Oranges
+				<ol>
+					<li>Navel</li>
+					<li>valencia</li>
+					<li>Cara cara navel</li>
+				</ol>
+			</li>
+			<li>Pears
+				<ol>
+					<li>Asian</li>
+					<li>European</li>
+					<li>Pyrus</li>
+				</ol>
+			</li>
+			<li>Lemons
+				<ol>
+					<li>Avalon</li>
+					<li>Bearss</li>
+					<li>Budda's Hand</li>
+				</ol>
+			</li>
+			<li>Cherries
+				<ol>
+					<li>Bing</li>
+					<li>Rainier</li>
+					<li>Queen</li>
+				</ol>
+			</li>
+		</ol>
+
+	</body>
+</html>
+
